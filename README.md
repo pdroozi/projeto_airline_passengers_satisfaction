@@ -107,14 +107,4 @@ Tecnologia > Comida: Na Classe Econômica, a nota de "Wifi" e "Check-in Online" 
 
 ## 🤝 Contribuição e Comunidade
 
-Este é um projeto Open Source feito para a comunidade. Sinta-se à vontade para:
-
-Abrir uma Issue com sugestões.
-
-Enviar um Pull Request com novas análises.
-
-Me chamar no LinkedIn para trocarmos ideias sobre Data Analytics!
-
----
-
-Desenvolvido por Pedro Henrique Estudante de Ciência da Computação (2026)
+Este é um projeto Open Source feito para a comunidade. Sinta-se à vontade para sugerir ideias, análises e chamar no LinkedIn para trocarmos ideias.
